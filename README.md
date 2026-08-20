@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/X-0A101F?style=for-the-badge&logo=x&logoColor=CBD5E1&labelColor=0A101F" alt="X" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.codewars.com/users/Feluvan">
+<a href="https://www.codewars.com/users/mrb1lal">
   <img src="https://img.shields.io/badge/Codewars-0A101F?style=for-the-badge&logo=codewars&logoColor=FF6A47&labelColor=0A101F" alt="Codewars" />
 </a>
 &nbsp;&nbsp;
