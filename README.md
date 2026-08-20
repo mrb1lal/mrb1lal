@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/%F0%9D%95%B1%F0%9D%96%8A%F0%9D%96%91%F0%9D%96%9A%F0%9D%96%9B%F0%9D%96%86%F0%9D%96%93-cmp-391784414/">
+<a href="www.linkedin.com/in/bilal-ahmadjanov-391784414">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
